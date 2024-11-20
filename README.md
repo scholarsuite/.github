@@ -1,0 +1,3 @@
+# .github
+
+Scholarsuite `.github` metarepository
